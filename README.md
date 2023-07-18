@@ -8,3 +8,6 @@ esto isntala las librerías de node en la carpeta node-modules
 
 npm install react react-dom bootstrap react-booststrap
 esto isntala las funcionalidades de react, bootstrap y react-bootstrap
+
+npm run dev
+para iniciar el entorno de desarrollo
