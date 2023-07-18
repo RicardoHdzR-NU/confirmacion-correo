@@ -1,0 +1,18 @@
+.cuerpo{
+    background-color: #E5E5E5;
+}
+
+.titulo{
+    font-family: sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.contenido{
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+.socials{
+    color: #0276DD
+}
